@@ -1,0 +1,2 @@
+(this.webpackJsonptehnarenok=this.webpackJsonptehnarenok||[]).push([[4],{51:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return p}));var r=n(0),a=n.n(r),c=n(19);n(22);function p(e){return c.a.dispatch({type:"SET-PAGES",page:"myprojects"}),a.a.createElement("div",null,"My projects")}}}]);
+//# sourceMappingURL=4.a3e6b919.chunk.js.map
